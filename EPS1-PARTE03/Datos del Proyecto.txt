@@ -1,0 +1,11 @@
+nombre del estudiante 01: waldir Ysai Azañero Espinoza
+github: https://github.com/WaldirYsai123/EPS1-Parte01
+
+nombre del estudiante 02: Diaz Seminario DAniel 
+gi Hub:https://github.com/DanielDiazSeminario1/EPS1-PARTE02
+
+nombre del estudiante 03: Rodriguez Mejia Jose
+git Hub: https://github.com/Jrodriguez1001/EPS1-PARTE03
+
+Nombre del Estudiante 04: Serna Malca Luis Alejandro
+gitHub: https://github.com/malcasernaluis/EPS1-PARTE04
